@@ -1,3 +1,0 @@
-/home/abdiel/Documentos/other-projects/TopProtocol/build/CMakeFiles/TopNet.dir
-/home/abdiel/Documentos/other-projects/TopProtocol/build/CMakeFiles/edit_cache.dir
-/home/abdiel/Documentos/other-projects/TopProtocol/build/CMakeFiles/rebuild_cache.dir
